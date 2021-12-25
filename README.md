@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NEXT.JS 
 - 💞️ I’m looking to collaborate on NEXT.JS or REACT.JS Related Web Development 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vocversefrontend&show_icons=true&theme=radical)
 <!---
 - 📫 How to reach me
 vocversefrontend/vocversefrontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
